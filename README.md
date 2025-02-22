@@ -1,1 +1,1 @@
-# Adivinhação de múmero com Rick and Morty
+# Adivinhação de número com Rick and Morty
